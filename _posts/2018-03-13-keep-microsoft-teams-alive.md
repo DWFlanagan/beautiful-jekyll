@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping Microsodt
+title: Keeping Microsoft Teams alive with launchd
 image: 
 tags: OS X
 ---
