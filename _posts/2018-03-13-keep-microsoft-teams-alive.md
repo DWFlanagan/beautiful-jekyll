@@ -2,7 +2,7 @@
 layout: post
 title: Keeping Microsoft Teams alive with launchd
 image: 
-tags: OS X
+tags: 'OS X'
 ---
 
 Microsoft Teams quits randomly on Mac without restarting.
