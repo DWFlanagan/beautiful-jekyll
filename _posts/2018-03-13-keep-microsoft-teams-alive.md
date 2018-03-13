@@ -2,6 +2,7 @@
 layout: post
 title: Keeping Microsodt
 image: 
+tags: OS X
 ---
 
 Microsoft Teams quits randomly on Mac without restarting.
