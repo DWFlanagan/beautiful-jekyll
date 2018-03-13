@@ -5,11 +5,11 @@ image:
 tags: [OS X]
 ---
 
-Microsoft Teams quits randomly on Mac without restarting.
+Microsoft Teams quits randomly on Mac without restarting. `launchd` can help.
 
 On OS X, you can use launchd to keep an application running as described [here](https://superuser.com/questions/135344/how-to-use-launchd-to-ensure-an-application-is-running).
 
-I created a file called `com.microsoft.teams.plist` in `~/Library/LaunchAgents/ `with the contents:
+I created a file called `com.microsoft.teams.plist` in `~/Library/LaunchAgents/` with the contents:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
