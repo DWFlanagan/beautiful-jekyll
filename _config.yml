@@ -24,6 +24,7 @@ description: Aspiring data scientist in academic publishing
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  My bookshelf: "bookshelf"
   Resources:
     - Datacamp News: "https://www.datacamp.com/community/"
     - Anaconda: "https://anaconda.org/"
