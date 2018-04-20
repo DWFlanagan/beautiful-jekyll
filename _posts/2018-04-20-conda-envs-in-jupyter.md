@@ -9,10 +9,10 @@ There are some great tips from Peter Bull at Driven Data about the proper way to
 
 One of the suggestions is to create a new environment for each project, so that you can create a list of the packages with the working versions to include as a `requirements.txt` file (or in the case of conda, an `environment.yml` file). But I use Jupyter, and I couldn't figure out how to get the environments to show up in the list of kernels.
 
-The two part solution is:
+The three part solution is:
 
-a) Install [`nb_conda_kernels`](https://github.com/Anaconda-Platform/nb_conda_kernels).
-b) Create and activate the project's environment (`conda create --name MY-ENV pandas; source activate MY-ENV`).
-c) In the project's environment, `conda install ipykernel` so that it is available from within Jupyter/iPython.
+1. Install [`nb_conda_kernels`](https://github.com/Anaconda-Platform/nb_conda_kernels).
+2. Create and activate the project's environment (`conda create --name MY-ENV pandas; source activate MY-ENV`).
+3. In the project's environment, `conda install ipykernel` so that it is available from within Jupyter/iPython.
 
 Now you can have easy access to a specific environment for each project.
