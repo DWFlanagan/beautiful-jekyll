@@ -5,4 +5,4 @@ image:
 tags: (VS Code) (OS X)
 ---
 
-Toggle display of dotfiles (e.g., `.env`) in the VS Code open file dialog with `command-shift-.`.
+Toggle display of dotfiles (e.g., `.env`) in the VS Code open file dialog with `Command-Shift-.`.
