@@ -2,7 +2,7 @@
 layout: post
 title: Using conda environments in Jupyter Lab notebooks
 image: 
-tags: conda, Jupyter
+tags: conda Jupyter
 ---
 
 There are some great tips from Peter Bull at Driven Data about the proper way to set up data science projects [here](https://github.com/drivendata/data-science-is-software) and [here](https://github.com/drivendata/cookiecutter-data-science).
