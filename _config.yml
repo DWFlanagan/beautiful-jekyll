@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "dave.flanagan@icloud.com"
+  email: "dwflanagan@icloud.com"
 # facebook: daattali
   github: DWFlanagan
   twitter: DWFlanagan
