@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a dataframe with `reduce` and a list comprehension
+title: Building a dataframe with reduce and a list comprehension
 image: 
 tags: [Python, pandas]
 ---
