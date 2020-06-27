@@ -5,7 +5,9 @@ image:
 tags: [photography, scanning]
 ---
 
-If you're like me, you read the reviews of the Reflecta RPS 10M scanner and had visions of being able to feed a complete roll of film into the scanner and come back in a couple of hours with a folder full of images. But then you started working with the SilverFast interface and reading through the documentation, searching YouTube for tutorial videos that weren't about flatbed scanners, and being baffled by the UI. 
+If you're like me, you read the reviews of the Reflecta RPS 10M scanner and had visions of being able to feed a complete roll of film into the scanner and come back in a couple of hours with a folder full of images.
+
+But then you started working with the SilverFast interface and reading through the documentation, searching YouTube for tutorial videos that weren't about flatbed scanners, and being baffled by the UI. 
 
 It might be helpful, but I didn't want to pay an additional $30 for an eBook of documentation for an already expensive piece of software. So, I've been doing some experimenting to learn how to use the tool.
 
