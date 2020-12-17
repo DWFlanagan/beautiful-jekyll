@@ -12,12 +12,12 @@ I'm building a dataframe for ML from a series of queries to different databases.
 Instead of sequentially merging each dataframe and building it up stepwise, I use `reduce` and a list comprehension.
 
 Remember that
-```reduce(lambda x, y: x+y, [1, 2, 3, 4, 5])```
+`reduce(lambda x, y: x+y, [1, 2, 3, 4, 5])`
  calculates ((((1+2)+3)+4)+5).
 
 So, I can write
 
-```
+```python
 from functools import reduce
 
 functions = [function1, function2, function3, function4,
