@@ -11,7 +11,7 @@ On OS X, you can use launchd to keep an application running as described [here](
 
 I created a file called `com.microsoft.teams.plist` in `~/Library/LaunchAgents/` with the contents:
 
-```
+```html
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -29,4 +29,3 @@ I created a file called `com.microsoft.teams.plist` in `~/Library/LaunchAgents/`
 ```
 
 Now when Teams quits randomly `launchd` starts it back up again.
-

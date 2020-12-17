@@ -7,7 +7,7 @@ tags: [plot.ly, Dash]
 
 If you don't like the default number formatting in hover labels in plot.ly, you can change them using D3.js formatting codes.
 
-```
+```python
 layout= go.Layout(
     hovermode= 'closest',
     xaxis= dict(
